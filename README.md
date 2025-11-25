@@ -17,7 +17,7 @@
 
 ### 📝 Blog & Contact
 
-준비하고 배운 내용을 정리할 기술 블로그를 준비 중입니다.
+준비하고 배운 내용을 정리할 블로그를 준비 중입니다.
 <a href="#">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
