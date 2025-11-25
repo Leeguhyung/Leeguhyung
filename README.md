@@ -29,8 +29,3 @@
 </a>
 
 ---
-
-### 📊 Github Stats
-
-<br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeknivoc" width="350">
