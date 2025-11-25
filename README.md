@@ -32,10 +32,5 @@
 
 ### 📊 Github Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeknivoc&show_icons=true&theme=graywhite&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeknivoc&layout=compact&theme=graywhite&hide_border=true&langs_count=6" height="150" alt="languages" />
-</div>
-
 <br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeknivoc" width="350">
