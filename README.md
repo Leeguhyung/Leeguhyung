@@ -14,6 +14,12 @@
 | **[FESTA](https://github.com/greedy-team/festa-frontend)** | 전국 대학 축제 정보 서비스 · [every-festa.com](https://www.every-festa.com) | 프론트엔드/테스트 구축 | Next.js, TypeScript, Vitest, Playwright |
 | **[세종대 축제 통합 웹 플랫폼](https://github.com/Leeguhyung/Sejong_Event_FR)** | 세종대 행사 입장 QR , 추첨 , 부스 웨이팅 | 프론트엔드 | React, TypeScript, WebSocket |
 
+### Activities
+
+| 활동 | 설명 | 역할 |
+| --- | --- | --- |
+| **[세감 🥔](https://github.com/se-gam)** | 세종대 온라인 출석 · 스터디룸 관리 서비스 | 관리자 |
+
 
 ### 📚 Tech Stack
 
