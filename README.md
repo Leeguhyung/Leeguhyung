@@ -13,7 +13,7 @@
 
 | 프로젝트 | 설명 | 역할 | 기술 |
 | --- | --- | --- | --- |
-| **세감** · [App Store](https://apps.apple.com/kr/app/id6479253937) · [Google Play](https://play.google.com/store/apps/details?id=com.segam_app) | 세종대 이러닝 출석·과제 확인, 스터디룸 예약 통합 앱 · 총 사용자 **5,116명**, MAU **437명** (2026.11 기준) | 관리자 · 서버 관리, 기능 개선, 유지보수 | React Native, Next.js, NestJS, Prisma, Docker |
+| **세감** · [App Store](https://apps.apple.com/kr/app/id6479253937) · [Google Play](https://play.google.com/store/apps/details?id=com.segam_app) | 세종대 이러닝 출석·과제 확인, 스터디룸 예약 통합 앱 | 관리자 · 서버 관리, 기능 개선, 유지보수 | React Native, Next.js, NestJS, Prisma, Docker |
 | **[메아리](https://github.com/meari-team/meari-backend)** | AI 회고 일기 앱 · 2026 인공지능융합대학 메이커톤 **최우수상** | 팀장 · React Native 앱 · 백엔드 | React Native, Expo, NestJS, Prisma, PostgreSQL |
 | **[FESTA](https://github.com/greedy-team/festa-frontend)** | 전국 대학 축제 정보 웹 · [every-festa.com](https://www.every-festa.com) | 프론트엔드 · 배포 · 테스트 도입 | Next.js, TypeScript, Vitest, Playwright |
 | **[세종대 행사 통합 관리 웹](https://github.com/Leeguhyung/Sejong_Event_FR)** | 행사 입장 QR · 추첨 · 축제 부스 웨이팅 | 프론트엔드 | React, TypeScript, WebSocket |
